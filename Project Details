@@ -1,0 +1,8 @@
+This project explores early physiological indicators of sepsis using a Kaggle clinical dataset. 
+I cleaned and prepared patient vitals and lab values, then built a series of interactive Tableau dashboards to visualize how these metrics change leading up to sepsis onset. 
+The dashboards include time‑series trends, correlation heatmaps, and cohort comparison views that highlight key predictors such as rising heart rate and respiratory rate. 
+The goal of the project is to transform complex clinical data into intuitive visual insights that support faster, more informed decision‑making in healthcare environments.
+
+
+https://public.tableau.com/app/profile/humera.anjum/viz/SepsisJul-SepBatch2025_Final01/Sepsis_storyBoard
+
