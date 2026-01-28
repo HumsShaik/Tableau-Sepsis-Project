@@ -64,4 +64,3 @@ Uses calculated fields to highlight trend‑based metrics such as:
 
 ---
 
-## 📁 Repository Structure
